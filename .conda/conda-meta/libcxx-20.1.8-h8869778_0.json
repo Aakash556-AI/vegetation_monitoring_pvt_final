@@ -1,0 +1,55 @@
+{
+  "build": "h8869778_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [
+    "llvm 20.1.8",
+    "llvm-openmp  20.1.8",
+    "llvm-tools  20.1.8",
+    "clang 20.1.8"
+  ],
+  "depends": [
+    "__osx >=11.1"
+  ],
+  "extracted_package_dir": "/Users/akashkumarsinha/anaconda3/pkgs/libcxx-20.1.8-h8869778_0",
+  "files": [
+    "lib/libc++.1.0.dylib",
+    "lib/libc++.1.dylib"
+  ],
+  "fn": "libcxx-20.1.8-h8869778_0.conda",
+  "legacy_bz2_md5": "b058db1d0c1abcfbbde841a4b1141532",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/akashkumarsinha/anaconda3/pkgs/libcxx-20.1.8-h8869778_0",
+    "type": 1
+  },
+  "md5": "4356f0023b4f2cf3efacc4ca4fcb9479",
+  "name": "libcxx",
+  "package_tarball_full_path": "/Users/akashkumarsinha/anaconda3/pkgs/libcxx-20.1.8-h8869778_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libc++.1.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "4fc4f8aa875fffcddbb05cb1e87fa99751156dff264e0547434e4f9729c80c0e",
+        "sha256_in_prefix": "4fc4f8aa875fffcddbb05cb1e87fa99751156dff264e0547434e4f9729c80c0e",
+        "size_in_bytes": 1171312
+      },
+      {
+        "_path": "lib/libc++.1.dylib",
+        "path_type": "softlink",
+        "sha256": "4fc4f8aa875fffcddbb05cb1e87fa99751156dff264e0547434e4f9729c80c0e",
+        "size_in_bytes": 1171312
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1c93049cfbc11020659ad0241ce9bc808ed8d77cb03d5cfab4afa4431281c3a9",
+  "size": 359637,
+  "subdir": "osx-arm64",
+  "timestamp": 1756220495534,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libcxx-20.1.8-h8869778_0.conda",
+  "version": "20.1.8"
+}
